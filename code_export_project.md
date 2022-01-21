@@ -9,7 +9,7 @@ You are reding this because you want to:
 
 ## Assumptions:
 
-(it should be obvious how to deviate from these assimptions)
+(it should be obvious how to deviate from these assumptions)
 
  - You want to export code from isabelle for a project called `my_example`.
  - The code you want to export will be in a file called `my_code.thy`

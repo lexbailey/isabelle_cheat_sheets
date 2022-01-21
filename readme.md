@@ -8,4 +8,4 @@ This list of cheat sheets will grow by 1 each time I get frustrated by the quali
 
 ## Cheat sheet list
 
-[code_export_project.md] "I want to write code in isabelle and export it to Haskell/SML/OCaml/Scala. How do I do that?"
+[code_export_project.md](code_export_project.md) "I want to write code in isabelle and export it to Haskell/SML/OCaml/Scala. How do I do that?"
