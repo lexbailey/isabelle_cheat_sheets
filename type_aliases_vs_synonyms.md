@@ -6,9 +6,9 @@ Suppose you want to define `nat_pair` to be `nat * nat`
 
 You do _not_ want the `type_alias` command (I know, the name is confusing) you want `type_synonym` as in this example:
 
-    type_synonym pair = "nat * nat"
+    type_synonym nat_pair = "nat * nat"
     
-    fun max_of_pair :: "pair ⇒ nat"
+    fun max_of_pair :: "nat_pair ⇒ nat"
       where "max_of_pair (a,b) = (if a > b then a else b)"
     
     value "max_of_pair (14,2)" (* answer is 14 *)
