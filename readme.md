@@ -12,3 +12,5 @@ This list of cheat sheets will grow by 1 each time I get frustrated by the quali
 
 [type_aliases_vs_synonyms.md](type_aliases_vs_synonyms.md) "`type_alias` doesn't work! _or_ How do I define an alias for a type?"
 
+[scala_case_insensitive_class_names.md](scala_case_insensitive_class_names.md) "When I generate scala code it won't run because it can't find some classes, and it warns me about case insensitive file systems."
+
