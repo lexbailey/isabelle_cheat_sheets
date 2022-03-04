@@ -14,3 +14,4 @@ This list of cheat sheets will grow by 1 each time I get frustrated by the quali
 
 [scala_case_insensitive_class_names.md](scala_case_insensitive_class_names.md) "When I generate scala code it won't run because it can't find some classes, and it warns me about case insensitive file systems."
 
+[command_line_help_text.md](command_line_help_text.md) "How do I get the CLI help text?"
